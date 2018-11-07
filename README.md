@@ -34,4 +34,4 @@
 
 ## 截图
 
-![Hackintosh-High-Sierra-10.13.6](http://ojlsgreog.bkt.clouddn.com/Hackintosh-High-Sierra-10.13.6.jpeg)
+![Hackintosh-High-Sierra-10.13.6](http://huihut-img.oss-cn-shenzhen.aliyuncs.com/Hackintosh-High-Sierra-10.13.6.jpeg)
